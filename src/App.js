@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in a new variety of ways
+          Learn React in a new variety of ways find the ways new one
 
 
 
